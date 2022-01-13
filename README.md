@@ -15,7 +15,7 @@ Mongo DB Hackathon Project
 - css 
 
 # About 
-This is a basic web application used of filter out data of various working professionals in different countries 
+This is a basic web application used of filter out data of various working professionals in different companies
 ## one can filter out data 
 - based on ratings 
 - based on company 
