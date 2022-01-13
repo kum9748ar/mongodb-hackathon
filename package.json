@@ -1,0 +1,26 @@
+{
+  "name": "mongo-store",
+  "version": "1.0.0",
+  "description": "API for mongo-store application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mongodb",
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Kumar Kalyan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.1.6"
+  }
+}
