@@ -9,6 +9,7 @@ Mongo DB Hackathon Project
 - hbs (handlebars)
 - dotenv
 - cors 
+- body-parser
 - bootstrap
 - html 
 - css 
